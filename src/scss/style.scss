@@ -1,0 +1,59 @@
+/*!
+    Title: Dev Portfolio Template
+    Version: 1.2.1
+    Last Change: 08/28/2017
+    Author: Ryan Fitzgerald
+    Repo: https://github.com/RyanFitzgerald/devportfolio-template
+    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Description: This file contains all the styles associated with the page
+    that don't come from third party libraries. This file gets compiled using
+    Gulp and send to the /css folder which is then loaded on the page.
+*/
+/*
+    File Contents:
+        1. Variables
+        2. Mixins
+        3. Global Styles
+        4. Lead Styles
+        5. About Styles
+        6. Experience Styles
+        7. Education Styles
+        8. Project Styles
+        9. Skills Styles
+        10. Contact Styles
+        11. Optional Section Styles
+        12. Media Queries
+*/
+
+/*
+    ------------------------
+    ----- 1. Variables -----
+    ------------------------
+*/
+
+/*
+	Edited files
+		navbars
+		jumbotron
+		panels
+		type
+		modals
+	New files
+		footer
+		banner
+		portfolio
+*/
+@import "assets/stylesheets/bootstrap";
+
+/*
+ * Custom components
+ */
+@import "theme/globals";
+@import "theme/footer";
+@import "theme/banner";
+@import "theme/portfolio";
+@import "theme/tabs";
+@import "theme/helpers";
+@import "theme/filters";
+@import "theme/about";
+@import "theme/flashcards";

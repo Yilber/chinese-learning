@@ -1,0 +1,125 @@
+//
+// Jumbotron
+// --------------------------------------------------
+
+
+.jumbotron {
+  padding-top:    $jumbotron-padding;
+  padding-bottom: $jumbotron-padding;
+  margin-bottom: $jumbotron-padding;
+  color: $jumbotron-color;
+  background-color: $jumbotron-bg;
+  text-align: center;
+
+  .jumbotron-heading {
+    display: table;
+    color: $jumbotron-heading-color;
+    //padding-bottom: $jumbotron-heading-padding;
+    margin: $jumbotron-heading-margin;
+    //border-bottom: $jumbotron-heading-border solid $jumbotron-color;
+
+    &:after {
+      content: "";
+      margin: 10px auto 0;
+      display: block;
+      width: 50px;
+      height: 3px;
+      background-color: $jumbotron-color;
+    }
+  }
+
+  span {
+    color: inherit;//#FFC107;
+  }
+
+  p {
+    margin-top: 9px; //($jumbotron-padding / 2);
+    margin-bottom: 0;
+    font-size: $jumbotron-font-size;
+    font-weight: 200;
+  }
+
+  form {
+    display: table;
+    width: 100%;
+    margin-top: 30px;
+
+    .form-group {
+      display: table-cell;
+      width: 100%;
+
+      .form-control {
+        display: inherit;
+        width: 100%;
+        height: auto;
+        padding: 10px 16px;
+        font-size: 18px;
+        line-height: 1.333;
+        vertical-align: middle;
+        border: 2px solid #36a1a1;
+        border-right: 0;
+        border-radius: 24px 0 0 24px;
+      }
+    }
+
+    button  {
+      display: table-cell;
+      border-radius: 0 24px 24px 0;
+    }
+  }
+
+  > hr {
+    border-top-color: darken($jumbotron-bg, 10%);
+  }
+
+  .container &,
+  .container-fluid & {
+    border-radius: $border-radius-large; // Only round corners at higher resolutions if contained in a container
+    padding-left:  ($grid-gutter-width / 2);
+    padding-right: ($grid-gutter-width / 2);
+  }
+
+  .container {
+    max-width: 100%;
+  }
+
+  @media screen and (min-width: $screen-sm-min) {
+    padding-top:    round(($jumbotron-padding * 2.83));
+    padding-bottom: round(($jumbotron-padding * 2.83));
+
+    .container &,
+    .container-fluid & {
+      padding-left:  ($jumbotron-padding * 2);
+      padding-right: ($jumbotron-padding * 2);
+    }
+
+    .jumbotron-heading {
+      font-size: $jumbotron-heading-font-size;
+    }
+  }
+}
+
+.jumbotron-inverse {
+  padding-top: $jumbotron-padding;
+  padding-bottom: $jumbotron-padding;
+  margin-bottom: $jumbotron-padding;
+  margin-top: $jumbotron-padding;
+  color: $jumbotron-inverse-heading-color;
+  background-color: $jumbotron-inverse-bg;
+
+  .jumbotron-heading {
+    color: $jumbotron-inverse-color;
+    //border-bottom: $jumbotron-heading-border solid $jumbotron-bg;
+    &:after {
+      background-color: $jumbotron-bg;
+    }
+  }
+
+  strong {
+    color: $brand-primary;
+  }
+
+  p {
+    color: $jumbotron-inverse-color;
+  }
+}

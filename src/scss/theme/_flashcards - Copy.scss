@@ -1,0 +1,78 @@
+.flashcard {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.2);
+    padding:30px;
+    height: 214px;
+    line-height: 1;
+    color: $brand-primary;
+    background-color: #000;
+
+    &--flip &__front {
+		display: none;
+	}
+
+	&--flip &__back {
+		display: flex;
+	}
+
+	&--flip {
+ 		position: relative;
+	    animation-name: flip;
+	    animation-duration: 5s;
+	    animation-direction: normal;
+	    animation-timing-function: ease-in-out;
+
+		> &__front {
+		   opacity: 0;
+		   background-color: red;
+		}
+
+		&__back {
+		   //opacity: 1;
+		}
+	}
+
+	&__front, &__back {
+		display:flex;
+		align-items:center;
+		justify-content: center;
+		flex-direction: column;
+	}
+
+	&__back {
+		width:100%;
+		display: none;
+
+		&--top-side {
+			display: flex;
+			align-items: center;
+			padding-bottom: 10px;
+		}
+
+		&--bottom-side {
+			width:100%;
+			border-top: 1px solid;
+    		padding-top: 5px;
+		}
+	}
+
+	&--character {		
+		font-size: 82px;
+	}
+
+	&--pinyin {
+		font-size: 36px;
+	}
+
+	&--meaning {
+		line-height: 1.5;
+	}
+
+	&__controllers {
+		margin-top: 30px;
+	}
+}

@@ -1,0 +1,30 @@
+// off=0, warn = 1, error = 2,
+{
+  "extends": "eslint:recommended",
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": "off",
+    "quotes": ["warn", "single"],
+    "camelcase": "error",
+    "comma-dangle": "error",
+    "no-console": "off",
+    "no-unused-vars": "warn",
+    "no-undef": "warn",
+    "eqeqeq": "error",
+    "no-alert": "error",
+    "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 1, "maxBOF": 0 } ],
+    'no-invalid-regexp': "error",
+    'no-use-before-define': "warn",
+    'no-shadow': "warn"
+  },
+  "globals": {
+    "$": false,
+    "HanziWriter":false
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "jquery": true
+  },
+}

@@ -1,0 +1,30 @@
+li.skill {
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.skill-title {
+	display: inline-block;
+	float: left;
+}
+
+.skill-percentage {
+	display: inline-block;
+	float: right;
+}
+
+.skill-bar {
+	width: 100%;
+	height: 5px;
+	float: left;
+	background-color: gray;
+	&:before {
+		content: "";
+		position: absolute;
+		width: 60%;
+		height: 5px;
+		background-color: red;
+
+	}
+}
