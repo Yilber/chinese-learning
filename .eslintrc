@@ -1,21 +1,18 @@
 // off=0, warn = 1, error = 2,
 {
-  "extends": "eslint:recommended",
+  "extends": "airbnb",
   "parser": "babel-eslint",
   "rules": {
-    "strict": "off",
+    "indent": ["warn", 4],
+    "comma-dangle": "off",
     "quotes": ["warn", "single"],
-    "camelcase": "error",
-    "comma-dangle": "error",
-    "no-console": "off",
-    "no-unused-vars": "warn",
-    "no-undef": "warn",
-    "eqeqeq": "error",
-    "no-alert": "error",
-    "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 1, "maxBOF": 0 } ],
-    'no-invalid-regexp': "error",
-    'no-use-before-define': "warn",
-    'no-shadow': "warn"
+    'no-multi-spaces': 'off',
+    "prefer-destructuring": ["error", {"object": true, "array": false}],
+    "import/no-extraneous-dependencies": ["off", {"devDependencies": false}],
+    "no-shadow": "off",
+    "no-restricted-imports": "error",
+    "import/prefer-default-export": "warn",
+    "class-methods-use-this": "off",
   },
   "globals": {
     "$": false,
@@ -28,3 +25,4 @@
     "jquery": true
   },
 }
+

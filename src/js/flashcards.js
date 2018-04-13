@@ -22,24 +22,24 @@ $(document).ready(function () {
         /* Solves the multiple characters rendered at once problem */
         if( $('#flashcard--character--front svg > g').length > 1 ){
             $('#flashcard--character--front').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with front')
+            console.log('there was a problem with front');
         } else if( $('#flashcard--character--front-2 svg > g').length > 1 ){
             $('#flashcard--character--front-2').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with front 2')
+            console.log('there was a problem with front 2');
         } else if( $('#flashcard--character--front-3 svg > g').length > 1 ){
             $('#flashcard--character--front-3').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with front 3')
+            console.log('there was a problem with front 3');
         }
 
         if( $('#flashcard--character--back svg > g').length > 1 ){
             $('#flashcard--character--back').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with back')
+            console.log('there was a problem with back');
         } else if( $('#flashcard--character--back-2 svg > g').length > 1 ){
             $('#flashcard--character--back-2').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with back 2')
+            console.log('there was a problem with back 2');
         } else if( $('#flashcard--character--back-3 svg > g').length > 1 ){
             $('#flashcard--character--back-3').find('svg > g:not(:last)').remove();
-            console.log('there was a problem with back 3')
+            console.log('there was a problem with back 3');
         }
 
         if(inverse){
@@ -155,7 +155,6 @@ $(document).ready(function () {
         }
 
         if( !isRandom ){
-            //listing(size, posible);
             return posible;
         }
 
@@ -169,11 +168,6 @@ $(document).ready(function () {
             posible.shift();
         }
 
-        console.log('generatedSequence', generatedSequence);
-
-       // listing(size, generatedSequence);
-
-        //console.log('generated:', generatedSequence.sort(function(a, b){return a - b}));
         return generatedSequence;
     }
 
@@ -200,76 +194,6 @@ $(document).ready(function () {
         $('.flashcard--card-number').html( sequence[(currentCard * 1 + 0) ] + 1);
         $('.flashcard--meaning').html(dictionary.items[0].meaning);
         $('.flashcard--pinyin').html(dictionary.items[0].pinyin);
-    }
-
-    function listing(size, order){
-        let definition;
-        let character;
-        let pinyin;
-        let learn  = [84, 63, 79, 57, 72, 66, 92, 89, 40, 83, 71, 78, 70, 85, 74, 55, 94, 69, 64, 90, 91, 81, 82, 73, 34, 93, 76, 65, 58, 75];
-        let review = [11, 19, 31, 33, 39, 37, 27, 51, 42, 47, 35, 29, 43, 2, 21];
-
-        $('#quiz').html('');
-        $('#review').html('');
-        $('#learn').html('');
-
-        for (let i = 0; i < size; i++) {
-            definition = dictionary.items[order[i]].meaning;
-            $('#quiz').append($('<div><span class="number">' + (order[i] + 1) + ') </span><span class="definition">' + definition + '</span></div>'));
-        }
-
-        for (let i = 0; i < review.length; i++) {
-            definition = dictionary.items[review[i] -1].meaning;
-            pinyin = dictionary.items[review[i] -1].pinyin;
-
-            if(dictionary.items[review[i] -1].character.length === 1)
-                character = dictionary.items[review[i] -1].character;
-            else
-                character = dictionary.items[review[i] -1].character[0] + '' + dictionary.items[review[i] -1].character[1];
-
-            $('#review').append($('<div><span class="number">' + review[i] + ')</span><span class="character">' + character + ' </span><span class="definition">' + pinyin + ' - ' + definition + '</span></div>'));
-        }
-
-        for (let i = 0; i < learn.length; i++) {
-            definition = dictionary.items[learn[i] -1].meaning;
-            pinyin = dictionary.items[learn[i] -1].pinyin;
-
-            if(dictionary.items[learn[i] -1].character.length === 1)
-                character = dictionary.items[learn[i] -1].character;
-            else
-                character = dictionary.items[learn[i] -1].character[0] + '' + dictionary.items[learn[i] -1].character[1];
-
-            $('#learn').append($('<div><span class="number">' + learn[i] + ')</span><span class="character">' + character + ' </span><span class="definition">' + pinyin + ' - ' + definition + '</span></div>'));
-        }
-
-        $('#cha').html('');
-
-        for (let i = 0; i < review.length; i++) {
-            if(dictionary.items[review[i] -1].character.length === 1)
-                character = dictionary.items[review[i] -1].character;
-            else
-                character = dictionary.items[review[i] -1].character[0] + '' + dictionary.items[review[i] -1].character[1];
-
-            $('#cha').append($('<span class="character">' + character + '。</span>'));
-        }
-
-        for (let i = 0; i < learn.length; i++) {
-            if(dictionary.items[learn[i] -1].character.length === 1)
-                character = dictionary.items[learn[i] -1].character;
-            else
-                character = dictionary.items[learn[i] -1].character[0] + '' + dictionary.items[learn[i] -1].character[1];
-
-            $('#cha').append($('<span class="character">' + character + '。</span>'));
-        }
-
-        for (let i = 0; i < size; i++) {
-            if(dictionary.items[i].character.length === 1)
-                character = dictionary.items[i].character;
-            else
-                character = dictionary.items[i].character[0] + '' + dictionary.items[i].character[1];
-
-            $('#list').append($('<span class="character">' + character + '</span>'));
-        }
     }
 
     function watcher(){
@@ -307,8 +231,6 @@ $(document).ready(function () {
         });
 
         $('#lesson').on('change', function(){
-            //console.log('select used');
-
             if( ($('#lesson option:selected').val() * 1) === -1){
                 $('#dialogue-choice').hide();
             } else if( ($('#lesson option:selected').val() * 1) === 0){
@@ -336,17 +258,8 @@ $(document).ready(function () {
                 dialogue = value === 'all'? value : $('input[name=dialogue]:checked').val() * 1;
             }
 
-            console.log('lesson', typeof lesson);
-            console.log('dialogue', dialogue);
-
             sequence    = sequenceGenerator( $('input[name=cardsOrder]:checked', '.flashcard__order').val() === 'random' );
             cardSize    = sequence.length;
-
-            console.log('posible', sequence);
-
-            console.log(cardSize);
-
-            //console.log('lesson:' + lesson + ' dialogue: ' + dialogue);
             getCard(sequence[currentCard]);
         });
 
