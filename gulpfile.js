@@ -125,7 +125,6 @@ gulp.task('scripts', ['dependencies'], function() {
     console.log('Starting scripts task');
 
     var scripts = [
-        'node_modules/hanzi-writer/dist/hanzi-writer.js',
         `${paths.js.src}/flashcards.js`,
         //`${paths.js.src}/main.js`
     ];
@@ -154,6 +153,8 @@ gulp.task('dependencies', ['bootstrap'], function(){
     console.log('Starting dependencies task');
 
     var jsfiles = [
+        './node_modules/jquery/dist/jquery.min.js',
+        './node_modules/hanzi-writer/dist/hanzi-writer.min.js',
         `${paths.js.dest}/bootstrap.min.js`,
     ];
 

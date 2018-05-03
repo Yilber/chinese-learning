@@ -1,7 +1,7 @@
 {
   "name": "chinese-learning",
   "version": "1.0.0",
-  "description": "A website for learning chinese characters thrgough flashcards. It covers the material from Integrated Chinese Level 1 Part 1, Third Edition.",
+  "description": "A website for learning chinese characters through flashcards. It covers the material from Integrated Chinese Level 1 Part 1, Third Edition.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -48,14 +48,15 @@
     "gulp-livereload": "^3.8.1",
     "gulp-plumber": "^1.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.2.1",
     "gulp-sourcemaps": "^2.6.3",
     "gulp-uglify": "^3.0.0",
-    "hanzi-writer": "^0.10.1",
     "static-server": "^3.0.0"
   },
   "dependencies": {
+    "bootstrap": "v3.3.7",
+    "hanzi-writer": "^0.10.1",
     "jquery": "^3.3.1",
-    "bootstrap": "v3.3.7"
+    "npm": "^6.0.0"
   }
 }

@@ -3,7 +3,7 @@
   "extends": "airbnb",
   "parser": "babel-eslint",
   "rules": {
-    "indent": ["warn", 4],
+    "indent": ["warn", 4, { "SwitchCase": 1 }],
     "comma-dangle": "off",
     "quotes": ["warn", "single"],
     'no-multi-spaces': 'off',
