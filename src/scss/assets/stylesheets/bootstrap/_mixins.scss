@@ -5,7 +5,7 @@
 @import "mixins/hide-text";
 @import "mixins/opacity";
 @import "mixins/image";
-@import "mixins/labels";
+// @import "mixins/labels";
 @import "mixins/reset-filter";
 @import "mixins/resize";
 @import "mixins/responsive-visibility";
@@ -17,20 +17,20 @@
 @import "mixins/vendor-prefixes";
 
 // Components
-@import "mixins/alerts";
+// @import "mixins/alerts";
 @import "mixins/buttons";
-@import "mixins/panels";
-@import "mixins/pagination";
-@import "mixins/list-group";
+// @import "mixins/panels";
+// // @import "mixins/pagination";
+// @import "mixins/list-group";
 @import "mixins/nav-divider";
 @import "mixins/forms";
-@import "mixins/progress-bar";
-@import "mixins/table-row";
+// @import "mixins/progress-bar";
+// @import "mixins/table-row";
 
 // Skins
 @import "mixins/background-variant";
 @import "mixins/border-radius";
-@import "mixins/gradients";
+//@import "mixins/gradients";
 
 // Layout
 @import "mixins/clearfix";
