@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    const url     = './js/data.json?ver=1.0.14';
+    const url     = './js/data.json?ver=1.0.15';
     const options = {
         width: 100,
         height: 100,
@@ -202,6 +202,23 @@ $(document).ready(() => {
         $('.flashcard--pinyin').html(dictionary.items[0].pinyin);
     }
 
+    function update() {
+        currentCard = 0;
+        lesson      = $('#lesson option:selected').val() * 1;
+
+        if (lesson === 0) {
+            const value = $('input[name=dialogue-0]:checked').val();
+            dialogue = value === 'all' ? value : $('input[name=dialogue-0]:checked').val() * 1;
+        } else {
+            const value = $('input[name=dialogue]:checked').val();
+            dialogue = value === 'all' ? value : $('input[name=dialogue]:checked').val() * 1;
+        }
+
+        sequence = sequenceGenerator($('input[name=cardsOrder]:checked', '.flashcard__order').val() === 'random');
+        cardSize = sequence.length;
+        getCard(sequence[currentCard]);
+    }
+
     function watcher() {
         $('.flashcard__flip-switch').on('click', () => {
             if ($('.flashcard').hasClass('flashcard--flip')) {
@@ -252,21 +269,7 @@ $(document).ready(() => {
 
         $('#update').on('click', (e) => {
             e.preventDefault();
-
-            currentCard = 0;
-            lesson      = $('#lesson option:selected').val() * 1;
-
-            if (lesson === 0) {
-                const value = $('input[name=dialogue-0]:checked').val();
-                dialogue = value === 'all' ? value : $('input[name=dialogue-0]:checked').val() * 1;
-            } else {
-                const value = $('input[name=dialogue]:checked').val();
-                dialogue = value === 'all' ? value : $('input[name=dialogue]:checked').val() * 1;
-            }
-
-            sequence = sequenceGenerator($('input[name=cardsOrder]:checked', '.flashcard__order').val() === 'random');
-            cardSize = sequence.length;
-            getCard(sequence[currentCard]);
+            update();
         });
 
         $('.next').click((e) => {
@@ -298,5 +301,6 @@ $(document).ready(() => {
 
         setup();
         watcher();
+        update();
     });
 });
