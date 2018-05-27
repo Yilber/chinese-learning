@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    const url     = './js/data.json?ver=1.0.15';
+    const url     = './js/data.json?ver=1.0.17';
     const options = {
         width: 100,
         height: 100,
@@ -10,6 +10,7 @@ $(document).ready(() => {
     };
 
     const inverse = true;
+    const wrongCards = [];
     let writerFront = {};
     let writerFront2 = {};
     let writerBack = {};
@@ -288,6 +289,27 @@ $(document).ready(() => {
                 currentCard -= 1;
                 getCard(sequence[currentCard]);
             }
+        });
+
+        $('.wrong-card').click((e) => {
+            e.preventDefault();
+
+            wrongCards.push(sequence[currentCard]);
+
+            if (currentCard < cardSize - 1) {
+                currentCard += 1;
+                getCard(sequence[currentCard]);
+            }
+        });
+
+        $('.play-wrong-card').click((e) => {
+            e.preventDefault();
+
+            sequence = Array.from(wrongCards);
+            cardSize = sequence.length;
+            currentCard = 0;
+            getCard(sequence[currentCard]);
+            console.log(sequence);
         });
     }
 

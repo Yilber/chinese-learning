@@ -1,0 +1,1305 @@
+{
+    "items": [{
+        "character": "人",
+        "pinyin": "rén",
+        "meaning": "person",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "山",
+        "pinyin": "shān",
+        "meaning": "mountain",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "日",
+        "pinyin": "rì",
+        "meaning": "sun; day",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "月",
+        "pinyin": "yuè",
+        "meaning": "moon, month",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "木",
+        "pinyin": "mù",
+        "meaning": "wood",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "刀",
+        "pinyin": "dāo",
+        "meaning": "knife",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "力",
+        "pinyin": "lì",
+        "meaning": "Power; strength",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "又",
+        "pinyin": "yòu",
+        "meaning": "again; right hand",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "口",
+        "pinyin": "kǒu",
+        "meaning": "mouth; measure word for number of family members",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "囗",
+        "pinyin": "wéi",
+        "meaning": "Enclose",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "土",
+        "pinyin": "tǔ",
+        "meaning": "Earth",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "夕",
+        "pinyin": "xī",
+        "meaning": "Sunset",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "大",
+        "pinyin": "dà",
+        "meaning": "big; old",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "女",
+        "pinyin": "nǚ",
+        "meaning": "female",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "子",
+        "pinyin": "zǐ",
+        "meaning": "son",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "寸",
+        "pinyin": "cùn",
+        "meaning": "inch",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "工",
+        "pinyin": "gōng",
+        "meaning": "Work",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "幺",
+        "pinyin": "yāo",
+        "meaning": "tiny",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "弓",
+        "pinyin": "gōng",
+        "meaning": "bow",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "心",
+        "pinyin": "xīn",
+        "meaning": "Heart",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "戈",
+        "pinyin": "gē",
+        "meaning": "dagger; spear",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "手",
+        "pinyin": "shǒu",
+        "meaning": "hand",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "火",
+        "pinyin": "huǒ",
+        "meaning": "fire",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "田",
+        "pinyin": "tián",
+        "meaning": "field",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "目",
+        "pinyin": "mù",
+        "meaning": "eye",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "示",
+        "pinyin": "shì",
+        "meaning": "demonstrate; to show",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "糸",
+        "pinyin": "mì",
+        "meaning": "silk",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "耳",
+        "pinyin": "ěr",
+        "meaning": "ear",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "衣",
+        "pinyin": "yī",
+        "meaning": "clothes",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "言",
+        "pinyin": "yán",
+        "meaning": "speech",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "貝",
+        "pinyin": "bèi",
+        "meaning": "cowrie shell; shellfish",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "足",
+        "pinyin": "zú",
+        "meaning": "foot",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "金",
+        "pinyin": "jīn",
+        "meaning": "gold",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "門",
+        "pinyin": "mén",
+        "meaning": "door",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "隹",
+        "pinyin": "zhuī",
+        "meaning": "short-tailed bird",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "雨",
+        "pinyin": "yǔ",
+        "meaning": "rain",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "食",
+        "pinyin": "shí",
+        "meaning": "eat",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "馬",
+        "pinyin": "mǎ",
+        "meaning": "horse",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "上",
+        "pinyin": "shàng",
+        "meaning": "above",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "下",
+        "pinyin": "xià",
+        "meaning": "below",
+        "lesson": 0,
+        "dialogue": 1
+    }, {
+        "character": "一",
+        "pinyin": "yī",
+        "meaning": "one",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "二",
+        "pinyin": "èr",
+        "meaning": "two",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "三",
+        "pinyin": "sān",
+        "meaning": "three",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "四",
+        "pinyin": "sì",
+        "meaning": "four",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "七",
+        "pinyin": "qī",
+        "meaning": "seven",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "百",
+        "pinyin": "bǎi",
+        "meaning": "hundred",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "千",
+        "pinyin": "qiān",
+        "meaning": "thousand",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "兩",
+        "pinyin": "liǎng",
+        "meaning": "two (used as a measurement unit); a couple of",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": ["兩", "百"],
+        "pinyin": "liǎngbǎi",
+        "meaning": "two hundred",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": ["兩", "千"],
+        "pinyin": "liǎngqiān",
+        "meaning": "two thousand",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "你",
+        "pinyin": "nǐ",
+        "meaning": "You",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "妳",
+        "pinyin": "nǐ",
+        "meaning": "You(female)",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "好",
+        "pinyin": "hǎo",
+        "meaning": "good; fine; nice; ok; it's settled",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "我",
+        "pinyin": "wǒ",
+        "meaning": "I; me",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "請",
+        "pinyin": "qǐng",
+        "meaning": "(Polite form)to invite; to treat",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "問",
+        "pinyin": "wèn",
+        "meaning": "To ask(a question)",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "貴",
+        "pinyin": "guì",
+        "meaning": "honorable; expensive",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "姓",
+        "pinyin": "xìng",
+        "meaning": "(one's) last name is..; to be surnamed; last name",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "嗎",
+        "pinyin": "ma",
+        "meaning": "question particle",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "呢",
+        "pinyin": "ne",
+        "meaning": "question particle",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "姐",
+        "pinyin": "jiě",
+        "meaning": "older sister",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["小", "姐"],
+        "pinyin": "xiǎojiě",
+        "meaning": "miss; young lady",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "叫",
+        "pinyin": "jiào",
+        "meaning": "To be called; to call",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["什", "麼"],
+        "pinyin": "shénme",
+        "meaning": "what?",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["名", "字"],
+        "pinyin": "míngzi",
+        "meaning": "name",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["先", "生"],
+        "pinyin": "xiānsheng",
+        "meaning": "Mr.; husband; teacher",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "李",
+        "pinyin": "lǐ",
+        "meaning": "(a last name); plum",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["李", "友"],
+        "pinyin": "lǐyǒu",
+        "meaning": "(a personal name)",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "王",
+        "pinyin": "wáng",
+        "meaning": "(a last name); king",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["王", "朋"],
+        "pinyin": "wángpéng",
+        "meaning": "(a personal name)",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["朋", "友"],
+        "pinyin": "péngyǒu",
+        "meaning": "friend",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": "不",
+        "pinyin": "bù",
+        "meaning": "not; no",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "是",
+        "pinyin": "shì",
+        "meaning": "to be",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "老",
+        "pinyin": "lǎo",
+        "meaning": "old",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": ["老", "師"],
+        "pinyin": "lǎoshī",
+        "meaning": "teacher",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": ["學", "生"],
+        "pinyin": "xuéshēng",
+        "meaning": "student",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "也",
+        "pinyin": "yě",
+        "meaning": "too; also",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "中",
+        "pinyin": "zhōng",
+        "meaning": "Middle",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "國",
+        "pinyin": "guó",
+        "meaning": "country",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": ["中", "國"],
+        "pinyin": "zhōngguó",
+        "meaning": "China",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "美",
+        "pinyin": "měi",
+        "meaning": "Beautiful",
+        "lesson": 1,
+        "dialogue": 1
+    }, {
+        "character": ["美", "國"],
+        "pinyin": "měiguó",
+        "meaning": "America",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "北",
+        "pinyin": "běi",
+        "meaning": "North",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "京",
+        "pinyin": "jīng",
+        "meaning": "Capital",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": ["北", "京"],
+        "pinyin": "běijīng",
+        "meaning": "Beijing",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": ["紐", "約"],
+        "pinyin": "niǔyuē",
+        "meaning": "New York",
+        "lesson": 1,
+        "dialogue": 2
+    }, {
+        "character": "那",
+        "pinyin": "nà",
+        "meaning": "that",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "這",
+        "pinyin": "zhè",
+        "meaning": "this",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "的",
+        "pinyin": "de",
+        "meaning": "a possesive or descriptive particle",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["照", "片"],
+        "pinyin": "zhàopiàn",
+        "meaning": "picture; photo",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["爸", "爸"],
+        "pinyin": "bàba",
+        "meaning": "father; dad",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["媽", "媽"],
+        "pinyin": "māma",
+        "meaning": "mother; mom",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["哥", "哥"],
+        "pinyin": "gēge",
+        "meaning": "older brother",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["弟", "弟"],
+        "pinyin": "dìdi",
+        "meaning": "younger brother",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "男",
+        "pinyin": "nán",
+        "meaning": "male",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["男", "孩"],
+        "pinyin": "nánhái",
+        "meaning": "boy",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "孩",
+        "pinyin": "hái",
+        "meaning": "child",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["孩", "子"],
+        "pinyin": "háizi",
+        "meaning": "child",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "他",
+        "pinyin": "tā",
+        "meaning": "he; him",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "她",
+        "pinyin": "tā",
+        "meaning": "she; her",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "兒",
+        "pinyin": "ér",
+        "meaning": "son",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "個",
+        "pinyin": "gè/ge",
+        "meaning": "measure word",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have; to exist",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "没",
+        "pinyin": "méi",
+        "meaning": "not",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "高",
+        "pinyin": "gāo",
+        "meaning": "(a last name) tall; high",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "文",
+        "pinyin": "wén",
+        "meaning": "language; script; written language",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "誰",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["姐", "姐"],
+        "pinyin": "jiějiě",
+        "meaning": "older sister",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["大", "哥"],
+        "pinyin": "dàgē",
+        "meaning": "eldest brother",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["兒", "子"],
+        "pinyin": "érzi",
+        "meaning": "son",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["女", "兒"],
+        "pinyin": "nǚ’ér",
+        "meaning": "daughter",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": ["高", "文", "中"],
+        "pinyin": "Gāo Wénzhōng",
+        "meaning": "(a personal name)",
+        "lesson": 2,
+        "dialogue": 1
+    }, {
+        "character": "家",
+        "pinyin": "jiā",
+        "meaning": "family; home",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["妹", "妹"],
+        "pinyin": "mèimei",
+        "meaning": "younger sister",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "幾",
+        "pinyin": "jǐ",
+        "meaning": "how many; some; a few",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "和",
+        "pinyin": "hé",
+        "meaning": "and",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "做",
+        "pinyin": "zuò",
+        "meaning": "to do",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["工", "作"],
+        "pinyin": "gōngzuò",
+        "meaning": "job; to work",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["醫", "生"],
+        "pinyin": "yīshēng",
+        "meaning": "doctor; physician",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "都",
+        "pinyin": "dōu",
+        "meaning": "both; all",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "律",
+        "pinyin": "lǜ",
+        "meaning": "law",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "白",
+        "pinyin": "bái",
+        "meaning": "white",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "愛",
+        "pinyin": "ài",
+        "meaning": "to love",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["白", "英", "愛"],
+        "pinyin": "báiyīngài",
+        "meaning": "(a personal name)",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": "們",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["大", "姐"],
+        "pinyin": "dàjiě",
+        "meaning": "eldest sister",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["二", "姐"],
+        "pinyin": "èrjiě",
+        "meaning": "second oldest sister",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["律", "師"],
+        "pinyin": "lǜshī",
+        "meaning": "lawyer",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["英", "文"],
+        "pinyin": "yīngwén",
+        "meaning": "English (language)",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["大", "學", "生"],
+        "pinyin": "dàxuéshēng",
+        "meaning": "college student",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["大", "學"],
+        "pinyin": "dàxué",
+        "meaning": "university; college",
+        "lesson": 2,
+        "dialogue": 2
+    }, {
+        "character": ["百", "萬"],
+        "pinyin": "bǎiwàn",
+        "meaning": "million; millions",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "很",
+        "pinyin": "hěn",
+        "meaning": "very; quite; much; awfully",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["九", "月"],
+        "pinyin": "jiǔyuè",
+        "meaning": "september",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["十", "二"],
+        "pinyin": "shièr",
+        "meaning": "twelve",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "號",
+        "pinyin": "hào",
+        "meaning": "measure word for number in a series; day of month",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["星", "期"],
+        "pinyin": "xīngqī",
+        "meaning": "week",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["星", "期", "四"],
+        "pinyin": "xīngqīsì",
+        "meaning": "thursday",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["生", "日"],
+        "pinyin": "shēngrì",
+        "meaning": "birthday",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "生",
+        "pinyin": "shēng",
+        "meaning": "to give birth; to be born",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["今", "年"],
+        "pinyin": "jīnnián",
+        "meaning": "this year",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "多",
+        "pinyin": "duō",
+        "meaning": "how many/much; to what extend; many",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["十", "八"],
+        "pinyin": "shíbā",
+        "meaning": "eighteen",
+        "lesson": 0,
+        "dialogue": 2
+    }, {
+        "character": "歲",
+        "pinyin": "suì",
+        "meaning": "year(of age)",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "飯",
+        "pinyin": "fàn",
+        "meaning": "meal; (cooked) rice",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["怎", "麼", "樣"],
+        "pinyin": "zěnme yàng",
+        "meaning": "Is it OK? How is that? How does that sound?",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["太", ".", ".", ".", "了"],
+        "pinyin": "tài...le",
+        "meaning": "too; extremely",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["謝", "謝"],
+        "pinyin": "xièxie",
+        "meaning": "to thank",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["喜", "歡"],
+        "pinyin": "xǐhuan",
+        "meaning": "to like",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "菜",
+        "pinyin": "cài",
+        "meaning": "dishes, cuisine",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["還", "是"],
+        "pinyin": "háishi",
+        "meaning": "or",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["可", "是"],
+        "pinyin": "kěshì",
+        "meaning": "but",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["我", "們"],
+        "pinyin": "wǒmen",
+        "meaning": "we",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "點",
+        "pinyin": "diǎn",
+        "meaning": "O`clock(lit. dot, point, thus &quot;points on the clock&quot;)",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "半",
+        "pinyin": "bàn",
+        "meaning": "half; half an hour",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["晚", "上"],
+        "pinyin": "wǎnshang",
+        "meaning": "evening; night",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "見",
+        "pinyin": "jiàn",
+        "meaning": "to see",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["再", "見"],
+        "pinyin": "zàijiàn",
+        "meaning": "goodbye; see you again",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "再",
+        "pinyin": "zài",
+        "meaning": "again",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["英", "國"],
+        "pinyin": "yīngguó",
+        "meaning": "Britain; England",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "少",
+        "pinyin": "shǎo",
+        "meaning": "little; less",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "期",
+        "pinyin": "qī",
+        "meaning": "term",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["今", "天"],
+        "pinyin": "jīntiān",
+        "meaning": "today",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["吃", "飯"],
+        "pinyin": "chīfàn",
+        "meaning": "to have a meal; having a meal; to eat",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["怎", "樣"],
+        "pinyin": "zěnyàng",
+        "meaning": "how; why",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": "黑",
+        "pinyin": "hēi",
+        "meaning": "black",
+        "lesson": 3,
+        "dialogue": 1
+    }, {
+        "character": ["現", "在"],
+        "pinyin": "xiànzài",
+        "meaning": "now; at present; at the moment",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": "刻",
+        "pinyin": "kè",
+        "meaning": "quarter(of an hour)",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["事", "兒"],
+        "pinyin": "shìr",
+        "meaning": "matter; affair; event",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["明", "天"],
+        "pinyin": "míngtiān",
+        "meaning": "tomortable",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["晚", "飯"],
+        "pinyin": "wǎnfàn",
+        "meaning": "dinner; supper",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["為", "什", "麼"],
+        "pinyin": "wèishénme",
+        "meaning": "why",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": "為",
+        "pinyin": "wèi",
+        "meaning": "for",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["因", "為"],
+        "pinyin": "yīnwèi",
+        "meaning": "because",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": "還",
+        "pinyin": "hái",
+        "meaning": "alsol tool as well",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["同", "學"],
+        "pinyin": "tóngxué",
+        "meaning": "classmate",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["認", "識"],
+        "pinyin": "rènshi",
+        "meaning": "to be acquainted with; to recognize",
+        "lesson": 3,
+        "dialogue": 2
+    }, {
+        "character": ["週", "末"],
+        "pinyin": "zhōumò",
+        "meaning": "weekend",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["打", "球"],
+        "pinyin": "dǎqiú",
+        "meaning": "to play ball",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "打",
+        "pinyin": "dǎ",
+        "meaning": "to hit",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "球",
+        "pinyin": "qiú",
+        "meaning": "ball",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "看",
+        "pinyin": "kàn",
+        "meaning": "to watch; to look; to read",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["電", "視"],
+        "pinyin": "diànshì",
+        "meaning": "television",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "電",
+        "pinyin": "diàn",
+        "meaning": "electricity",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "視",
+        "pinyin": "shì",
+        "meaning": "vision",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["唱", "歌"],
+        "pinyin": "chànggē",
+        "meaning": "to sing(a song)",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "唱",
+        "pinyin": "chàng",
+        "meaning": "to sing",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["跳", "舞"],
+        "pinyin": "tiàowǔ",
+        "meaning": "to dance",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "跳",
+        "pinyin": "tiào",
+        "meaning": "to jump",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "舞",
+        "pinyin": "wǔ",
+        "meaning": "dance",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "聽",
+        "pinyin": "tīng",
+        "meaning": "to listen",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["音", "樂"],
+        "pinyin": "yīnyuè",
+        "meaning": "music",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "書",
+        "pinyin": "shū",
+        "meaning": "book",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "對",
+        "pinyin": "duì",
+        "meaning": "right; correct",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["有", "的"],
+        "pinyin": "yǒude",
+        "meaning": "some",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["時", "候"],
+        "pinyin": "shíhou",
+        "meaning": "(a point in) time; moment; (a duration of) time",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["電", "影"],
+        "pinyin": "diànyǐng",
+        "meaning": "movie",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "影",
+        "pinyin": "yǐng",
+        "meaning": "shadow",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["常", "常"],
+        "pinyin": "chángcháng",
+        "meaning": "often",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": "去",
+        "pinyin": "qù",
+        "meaning": "to go",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["外", "國"],
+        "pinyin": "wàiguó",
+        "meaning": "foreign country",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["請", "客"],
+        "pinyin": "qǐngkè",
+        "meaning": "to invite someone(to dinner, coffee, etc); to play the host",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["昨", "天"],
+        "pinyin": "zuótiān",
+        "meaning": "yesterday",
+        "lesson": 4,
+        "dialogue": 1
+    }, {
+        "character": ["所", "以"],
+        "pinyin": "suǒyǐ",
+        "meaning": "so; therefore; as a result",
+        "lesson": 4,
+        "dialogue": 1
+    }]
+}
